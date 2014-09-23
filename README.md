@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-My first
+
+Hello! I am Nirish
+I a under-grad in IIT-Bombay 
